@@ -1,18 +1,17 @@
-
 # 📌 Lodembeep's GitHub Profile  
 
-Hey, I'm **Lodembeep** — a backend junkie who loves diving deep into the tech stack and building stuff that actually works. I’m all about **Node.js** (and its cousins **Bun** and **Deno**) to craft powerful apps and systems. Oh, and did I mention I’m an **AI skeptic**? But, you know, still cool with exploring the possibilities.  
+Hey, I'm **Lodembeep** — a backend junkie and DevOps enthusiast who loves diving deep into tech and building stuff that (usually) works. I’m an **eternal learner** with **endless curiosity** for new technologies and try to keep up with the latest trends as often as possible. Oh, and yeah, I’m an **AI skeptic** — still waiting to be impressed!  
 
 ### 🚀 About Me  
-- 💚 **Node.js** is my jam (and I’m all about the flavors like **Bun** and **Deno**)  
-- 🌍 Crafting sleek UIs with **Quasar Framework** and building **Tauri** apps that run anywhere  
-- 🗄️ Love working with **MongoDB** and **MySQL** for all things data  
-- ⚡ **APIs** are my second language, I like them fast, websockets crispy, and **GSQL** makes me happy  
-- 🖥️ Backend dev for life — frontend? I can do it, but don't expect miracles 😅  
-- 🛠️ I live for **servers**, **Linux** is my daily (mostly **Ubuntu**), and building **microarchitectures** is my jam — writing APIs, deploying servers, automating scripts, and managing **DMZs**  
-- 💸 **Crypto since 2014** — watched it grow from a niche thing to the wild ride it is now  
-- 🤮 **PHP** and **Laravel**? Just… no.  
-- 🚫 **Java**? Nope, can’t do it, won’t do it, don't make me.  
+- 💚 **Node.js** is my jam (with **Bun** and **Deno** tagging along)  
+- 🌍 Building slick UIs with **Quasar Framework** and cross-platform apps with **Tauri**  
+- 🗄️ Messing with **MongoDB** and **MySQL** for all things data  
+- ⚡ **APIs** are my bread and butter, websockets keep things spicy, and **GSQL** is growing on me  
+- 🖥️ **Backend dev** first and foremost — frontend happens when necessary 😅  
+- 🛠️ **DevOps** is my playground — I know what I’m doing and love every bit of it! Managing **Linux** servers (mostly **Ubuntu**), deploying servers, writing automation scripts, experimenting with **microarchitectures**, and keeping things secure in **DMZs** — always learning, always improving  
+- 💸 **Crypto since 2014** — been through the booms, busts, and everything in between  
+- 🤮 **PHP** and **Laravel**? Hard pass.  
+- 🚫 **Java**? Yeah, no thanks.  
 
 ### 💥 Feats I’m Proud Of  
 - 🏦 Built a **crypto bank** backend  
@@ -29,9 +28,9 @@ Hey, I'm **Lodembeep** — a backend junkie who loves diving deep into the tech 
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white)  
 ![HyperExpress](https://img.shields.io/badge/HyperExpress-000000?style=for-the-badge)  
 💻 **Linux** daily (mostly **Ubuntu**)  
-⚙️ **Servers**, **microarchitectures**, **automation scripts**, and **DMZ management**  
-💸 **Crypto since 2014** — BTC, ETH, and all that jazz  
-🚫 **PHP**, **Laravel**, and **Java** — not my vibe, I’m out  
+⚙️ **DevOps & Servers:** Confident with server setups, **automation scripts**, CI/CD pipelines, and **DMZ** configurations — always exploring better ways to do things  
+💸 **Crypto since 2014** — BTC, ETH, and plenty of others  
+🚫 **PHP**, **Laravel**, and **Java** — nope, not for me  
 
 ### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lodembeep&show_icons=true&theme=radical)  
