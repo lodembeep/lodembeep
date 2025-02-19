@@ -1,4 +1,4 @@
-# 📌 Lodembeep's GitHub Profile  
+# 📌 Lodembeep: Backend Architect | DevOps Expert | Startup Builder
 
 Hey, I'm **Lodembeep** — a backend junkie and DevOps enthusiast who loves diving deep into tech and building stuff that (usually) works. I’m an **eternal learner** with **endless curiosity** for new technologies and try to keep up with the latest trends as often as possible. Oh, and yeah, I’m an **AI skeptic** — still waiting to be impressed!  
 
