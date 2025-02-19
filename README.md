@@ -1,6 +1,6 @@
 # 📌 Lodembeep: Backend Architect | DevOps Expert | Startup Builder
 
-Hey, I'm **Lodembeep** — a backend junkie and DevOps enthusiast who loves diving deep into tech and building stuff that (usually) works. I’m an **eternal learner** with **endless curiosity** for new technologies and try to keep up with the latest trends as often as possible. Oh, and yeah, I’m an **AI skeptic** — still waiting to be impressed!  
+I’m not here to write basic code. I take the tech that others worship and make it mine, from building startups that disrupt to crafting systems that just work—no hype, no fluff. My backend doesn’t just run; it scales, adapts, and grows. The tools I use? They’re just that—tools. It's the architecture and the approach that matter. Crypto? Cool, but I’m here to create, not chase the buzz.
 
 ### 🚀 About Me  
 - 💚 **Node.js** is my jam (with **Bun** and **Deno** tagging along)  
