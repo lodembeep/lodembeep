@@ -32,9 +32,5 @@ I’m not here to write basic code. I take the tech that others worship and make
 💸 **Crypto since 2014** — BTC, ETH, and plenty of others  
 🚫 **PHP**, **Laravel**, and **Java** — nope, not for me  
 
-### 📊 GitHub Stats (Public Stats) 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lodembeep&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lodembeep&layout=compact&theme=radical)  
-
 ### 📫 Connect with Me  
 - 🏡 [GitHub](https://github.com/lodembeep)  
