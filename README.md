@@ -1,6 +1,6 @@
 # 📌 Lodembeep: Backend Architect | DevOps Expert | Startup Builder
 
-I’m not here to write basic code. I take the tech that others worship and make it mine, from building startups that disrupt to crafting systems that just work—no hype, no fluff. My backend doesn’t just run; it scales, adapts, and grows. The tools I use? They’re just that—tools. It's the architecture and the approach that matter. Crypto? Cool, but I’m here to create, not chase the buzz.
+I take technology and make it my own—from shaping startups to designing systems that simply work. My focus is on building backends that scale, adapt, and grow with purpose. The tools I use are just that: tools. What matters most is the architecture and approach. Crypto is part of my journey, but creation comes first.
 
 ### 🚀 About Me  
 - 💚 **Node.js** is my jam (with **Bun** and **Deno** tagging along)  
